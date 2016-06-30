@@ -10,15 +10,11 @@ Hello, I'm dokelung ( Ko-Lung Yuan ).
 * I am a blogger.
 * I am a Pythoner.
 
----
-
 ## Contact me
 
 If you are interested in my work or have any question or comment, please feel free to contact me anytime.
 
 * Email: dokelung@gmail.com
-
----
 
 ## Education
 
